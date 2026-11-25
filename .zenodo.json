@@ -1,6 +1,6 @@
 {
   "title": "Analysis code for: Loss of hnRNP R Disrupts SMN-Associated Ribonucleoprotein Homeostasis",
-  "description": "<p>R and command-line scripts used to analyse the RNA-sequencing data in Ji, <i>Biology</i> (MDPI), manuscript biology-4683043: differential expression (DESeq2), GO over-representation and gene set enrichment analysis (clusterProfiler, gprofiler2), alternative splicing PSI PCA (Shiba output), alternative polyadenylation (QAPA) and tandem transcription start site usage (DATTSS). Sequencing data are in GEO under GSE202720.</p>",
+  "description": "<p>R and command-line scripts used to analyse the RNA-sequencing data in Ji, <i>Biology</i> (MDPI), manuscript biology-4683043: differential expression (DESeq2), GO over-representation and gene set enrichment analysis (clusterProfiler, gprofiler2), alternative splicing PSI PCA (Shiba output), alternative polyadenylation (QAPA) and tandem transcription start site usage (DATTSS). Sequencing data are deposited in GEO under accession GSE202720.</p>",
   "upload_type": "software",
   "license": "mit",
   "creators": [
@@ -17,12 +17,5 @@
     "alternative polyadenylation",
     "transcription start site",
     "HeLa"
-  ],
-  "related_identifiers": [
-    {
-      "identifier": "GSE202720",
-      "relation": "isSupplementedBy",
-      "scheme": "other"
-    }
   ]
 }
