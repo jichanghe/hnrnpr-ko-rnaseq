@@ -1,0 +1,21 @@
+# downloaded data
+data/*
+!data/README.md
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# outputs
+results/
+*.pdf
+*.png
+*.tiff
+*.xlsx
+!CITATION.cff
+
+# OS
+.DS_Store
+Thumbs.db

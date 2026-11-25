@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Analysis code for: Loss of hnRNP R Disrupts SMN-Associated Ribonucleoprotein Homeostasis"
+message: "If you use this software, please cite both the software and the paper."
+type: software
+authors:
+  - family-names: Ji
+    given-names: Changhe
+    orcid: "https://orcid.org/0000-0003-1762-3581"
+license: MIT
+repository-code: "https://github.com/jichanghe/hnrnpr-ko-rnaseq"
+keywords:
+  - hnRNP R
+  - SMN
+  - RNA-seq
+  - alternative splicing
+  - alternative polyadenylation
+  - transcription start site
+preferred-citation:
+  type: article
+  title: "Loss of hnRNP R Disrupts SMN-Associated Ribonucleoprotein Homeostasis"
+  authors:
+    - family-names: Ji
+      given-names: Changhe
+      orcid: "https://orcid.org/0000-0003-1762-3581"
+  journal: "Biology"
+  year: 2026
